@@ -1,2 +1,1 @@
-# maddi_notes
-Notes
+# Notes
